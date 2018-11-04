@@ -1,0 +1,2 @@
+total: 28829, delivery success: 21683, delivery fail(status='fail'): 0, not delivered: 5099, received = 1677, queued: 0, sending: 0, sent: 369
+not delivered reasons: Carrier violation,Landline or unreachable carrier,Unknown error,Unknown destination handset
